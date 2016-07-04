@@ -1,3 +1,4 @@
 [submodule "DBConnector"]
 	path = DBConnector
 	url = https://github.com/samahell4/DBConnector
+	branch = stable
